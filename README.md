@@ -1,4 +1,4 @@
-# tamakun — high-throughput promotional email sender (dry run)
+# Bestshield | Tamakun — high-throughput promotional email sender (dry run)
 
 A single-file Go program that delivers a personalized promotional email to
 **1,000,000** customer addresses **as fast as reasonably possible**, as a
